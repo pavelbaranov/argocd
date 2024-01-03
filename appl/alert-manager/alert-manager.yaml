@@ -22,7 +22,7 @@ data:
     receivers:
     - name: 'slack-notifications'
       slack_configs:
-      - api_url: https://hooks.slack.com/services/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
+      - api_url: https://hooks.slack.com/services/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
         channel: '#monitoring'
         send_resolved: true
         title: |-
